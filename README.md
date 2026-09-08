@@ -386,7 +386,8 @@ Green-Cart-Q2-Performance-Analysis/
     ├── loyalty_performance.png
     ├── discount_quantity.png
     ├── delivery_performance.png
-    └── underperforming_orders.png<img width="590" height="373" alt="Screenshot 2026-09-01 135721" src="https://github.com/user-attachments/assets/001470f9-c122-4399-9ade-0b4ca45fd2a1" />
-<img width="595" height="362" alt="Screenshot 2026-09-01 181759" src="https://github.com/user-attachments/assets/b6f67a6c-12a6-4bbf-b0d2-69311d8b77ce" />
-<img width="482" height="368" alt="Screenshot 2026-09-01 183844" src="https://github.com/user-attachments/assets/b832da14-4485-439e-a46c-0d7365fe7684" />
-<img width="476" height="320" alt="Screenshot 2026-09-03 140802" src="https://github.com/user-attachments/assets/cb6ae1d6-9a83-4026-ad29-00c05756e2f4" />
+    └── underperforming_orders.png<img width="590" height="373" alt="Screenshot 2026-09-01 135721" <img width="590" height="373" alt="Screenshot 2026-09-01 135721" src="https://github.com/user-attachments/assets/8a94c358-2362-471f-9430-f31a245030b3" />
+<img width="482" height="368" alt="Screenshot 2026-09-01 183844" src="https://github.com/user-attachments/assets/600f2206-7601-4aa5-8fe8-5989ae7f09b1" />
+<img width="595" height="362" alt="Screenshot 2026-09-01 181759" src="https://github.com/user-attachments/assets/7710b4e1-97db-4345-8293-415f3d90d9f6" />
+<img width="476" height="320" alt="Screenshot 2026-09-03 140802" src="https://github.com/user-attachments/assets/05191601-79eb-4a5c-9e14-9d1dee4512c7" />
+
