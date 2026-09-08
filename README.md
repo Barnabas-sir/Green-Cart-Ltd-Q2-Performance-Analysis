@@ -1,4 +1,4 @@
-# Green Cart Ltd — Q2 Performance Analysis
+# Green Cart Ltd - Q2 Performance Analysis
 
 ## Project Overview
 
@@ -386,8 +386,25 @@ Green-Cart-Q2-Performance-Analysis/
     ├── loyalty_performance.png
     ├── discount_quantity.png
     ├── delivery_performance.png
-    └── underperforming_orders.png<img width="590" height="373" alt="Screenshot 2026-09-01 135721" <img width="590" height="373" alt="Screenshot 2026-09-01 135721" src="https://github.com/user-attachments/assets/8a94c358-2362-471f-9430-f31a245030b3" />
-<img width="482" height="368" alt="Screenshot 2026-09-01 183844" src="https://github.com/user-attachments/assets/600f2206-7601-4aa5-8fe8-5989ae7f09b1" />
-<img width="595" height="362" alt="Screenshot 2026-09-01 181759" src="https://github.com/user-attachments/assets/7710b4e1-97db-4345-8293-415f3d90d9f6" />
-<img width="476" height="320" alt="Screenshot 2026-09-03 140802" src="https://github.com/user-attachments/assets/05191601-79eb-4a5c-9e14-9d1dee4512c7" />
+    └── underperforming_orders.png
 
+## Visualisations
+
+### Revenue by Product Category
+
+![Revenue by Product Category](visualisations/category_performance.png)
+<img width="488" height="359" alt="Category_performance" src="https://github.com/user-attachments/assets/0319253d-2134-4a31-9f5d-3e38cd9a5735" />
+
+
+### Regional Order Volume vs Average Revenue
+
+![Regional Order Volume vs Average Revenue](visualisations/regional_order_volume_vs_average_revenue.png)<img width="482" height="368" alt="Regional Order Volume vs Average Revenue" src="https://github.com/user-attachments/assets/92bb9363-9f06-4c8b-9ef4-a0daea29d2a4" />
+
+### Average Revenue per Order by Region
+
+![Average Revenue per Order by Region](visualisations/regional_average_revenue.png)<img width="476" height="320" alt="First_day_revenue_by_purchase_timing" src="https://github.com/user-attachments/assets/520b9e43-0f0a-42fe-9daf-b964f45a04f1" />
+
+
+### Average First-Day Revenue by Purchase Timing
+
+![Average First-Day Revenue by Purchase Timing](visualisations/first_day_revenue_by_purchase_timing.png)<img width="476" height="320" alt="First_day_revenue_by_purchase_timing" src="https://github.com/user-attachments/assets/55a915ae-4829-4412-9ff9-776e16c68f22" />
